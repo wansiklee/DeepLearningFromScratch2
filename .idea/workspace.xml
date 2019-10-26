@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55ccfb40-9eb2-40ca-b04d-e13bab1318b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1.ReviewNeuralNetwork/1.4.solveNN/1.4.1.spiral_dataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.ReviewNeuralNetwork/1.4.solveNN/1.4.2.implementNN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.ReviewNeuralNetwork/1.4.solveNN/1.4.3.codeForLearning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.ReviewNeuralNetwork/1.4.solveNN/1.4.4.trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.DistributedRepresentation/2.3.StatisticalNLP/2.3.1.CorpusPreprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.DistributedRepresentation/2.3.StatisticalNLP/2.3.4.co-occurrenceMatrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.DistributedRepresentation/2.3.StatisticalNLP/2.3.5.cosine_similarity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.DistributedRepresentation/2.3.StatisticalNLP/2.3.6.most_similar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,10 +17,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1.ReviewNeuralNetwork/1.4.solveNN/1.4.4.trainer.py">
+        <entry file="file://$PROJECT_DIR$/2.DistributedRepresentation/2.3.StatisticalNLP/2.3.1.CorpusPreprocessing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1311">
-              <caret line="69" column="7" lean-forward="true" selection-start-line="69" selection-start-column="7" selection-end-line="69" selection-end-column="7" />
+            <state relative-caret-position="323">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2.DistributedRepresentation/2.3.StatisticalNLP/2.3.4.co-occurrenceMatrix.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2.DistributedRepresentation/2.3.StatisticalNLP/2.3.5.cosine_similarity.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2.DistributedRepresentation/2.3.StatisticalNLP/2.3.6.most_similar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="55" column="26" lean-forward="true" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -54,6 +81,10 @@
         <option value="$PROJECT_DIR$/1.ReviewNeuralNetwork/1.4.solveNN/1.4.3.codeForLearning.py" />
         <option value="$PROJECT_DIR$/1.ReviewNeuralNetwork/1.4.solveNN/1.4.4.Trainer.py" />
         <option value="$PROJECT_DIR$/1.ReviewNeuralNetwork/1.4.solveNN/1.4.4.trainer.py" />
+        <option value="$PROJECT_DIR$/2.DistributedRepresentation/2.3.StatisticalNLP/2.3.1.CorpusPreprocessing.py" />
+        <option value="$PROJECT_DIR$/2.DistributedRepresentation/2.3.StatisticalNLP/2.3.4.co-occurrenceMatrix.py" />
+        <option value="$PROJECT_DIR$/2.DistributedRepresentation/2.3.StatisticalNLP/2.3.5.cosine_similarity.py" />
+        <option value="$PROJECT_DIR$/2.DistributedRepresentation/2.3.StatisticalNLP/2.3.6.most_similar.py" />
       </list>
     </option>
   </component>
@@ -69,7 +100,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -85,19 +115,13 @@
             <path>
               <item name="DeepLearningFromScratch2" type="b2602c69:ProjectViewProjectNode" />
               <item name="DeepLearningFromScratch2" type="462c0819:PsiDirectoryNode" />
-              <item name="1.ReviewNeuralNetwork" type="462c0819:PsiDirectoryNode" />
-              <item name="1.3.NN_learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DeepLearningFromScratch2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepLearningFromScratch2" type="462c0819:PsiDirectoryNode" />
-              <item name="1.ReviewNeuralNetwork" type="462c0819:PsiDirectoryNode" />
-              <item name="1.4.solveNN" type="462c0819:PsiDirectoryNode" />
+              <item name="2.DistributedRepresentation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -117,28 +141,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1.2.2.classify&amp;forwardPropagation">
-    <configuration name="1.1.2.matrix_elementWise_operations" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DeepLearningFromScratch2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.ReviewNeuralNetwork/1.1.Math&amp;Python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.ReviewNeuralNetwork/1.1.Math&amp;Python/1.1.2.matrix_elementWise_operations.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.2.3.1.CorpusPreprocessing">
     <configuration name="1.1.3.broadcast" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DeepLearningFromScratch2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -223,13 +226,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="2.3.1.CorpusPreprocessing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DeepLearningFromScratch2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.DistributedRepresentation/2.3.StatisticalNLP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.DistributedRepresentation/2.3.StatisticalNLP/2.3.1.CorpusPreprocessing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2.3.1.CorpusPreprocessing" />
         <item itemvalue="Python.1.2.2.classify&amp;forwardPropagation" />
         <item itemvalue="Python.1.2.1.NN_inference_all" />
         <item itemvalue="Python.1.1.4.vector_innerProduct&amp;matrix_mul" />
         <item itemvalue="Python.1.1.3.broadcast" />
-        <item itemvalue="Python.1.1.2.matrix_elementWise_operations" />
       </list>
     </recent_temporary>
   </component>
@@ -364,8 +388,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1.ReviewNeuralNetwork/1.4.solveNN/1.4.4.trainer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1311">
-          <caret line="69" column="7" lean-forward="true" selection-start-line="69" selection-start-column="7" selection-end-line="69" selection-end-column="7" />
+        <state relative-caret-position="122">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.DistributedRepresentation/2.3.StatisticalNLP/2.3.6.most_similar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="55" column="26" lean-forward="true" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.DistributedRepresentation/2.3.StatisticalNLP/2.3.5.cosine_similarity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.DistributedRepresentation/2.3.StatisticalNLP/2.3.4.co-occurrenceMatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.DistributedRepresentation/2.3.StatisticalNLP/2.3.1.CorpusPreprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
